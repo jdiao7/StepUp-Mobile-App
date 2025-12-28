@@ -1,50 +1,122 @@
-# Welcome to your Expo app 👋
+# StepUp – Mobile Fitness & Social Accountability App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+StepUp is a **gamified iOS step-tracking app** built during a hackathon by a team of four former student-athletes. The app combines **fitness, competition, and social connectivity** to encourage users to stay active through daily step goals and challenges.
 
-## Get started
+---
 
-1. Install dependencies
+## 🎯 Inspiration
+As busy college students and former student-athletes, our team wanted a way to stay active despite packed schedules. We realized that while workouts aren’t always possible, **daily steps are achievable**. StepUp was created to merge competitive motivation with modern fitness technology, helping users stay active and connected.
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## 🚀 What StepUp Does
+StepUp encourages physical activity through **friendly competition and social accountability**.
 
-   ```bash
-   npx expo start
-   ```
+Key features include:
+- Daily step tracking with visual progress charts
+- Competitive **leaderboards** and team challenges
+- Friendly battles, boss challenges, and distance goals
+- Account creation via email
+- Messaging and external invites for social interaction
 
-In the output, you'll find options to open the app in a
+The app motivates users to move more while strengthening social connections.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🛠 How We Built It
+We split into **front-end and back-end teams** to build StepUp efficiently.
 
-## Get a fresh project
+### Front End
+- Built with **React Native Expo** and **JavaScript**
+- Developed in **VS Code**
+- UI testing performed using **Xcode iOS Simulator**
+- Focused on clean design, usability, and responsive screens
 
-When you're ready, run:
+### Back End
+- Built using **Python**, **Flask**, and **SQLAlchemy**
+- Handled user accounts, step data, and challenge logic
+- Integrated database functionality with the front end
 
-```bash
-npm run reset-project
-```
+After development, both sides were integrated and refined through iterative testing.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 👤 My Contributions
+I worked on StepUp as a **Front-End Developer** as part of a four-person hackathon team.
 
-To learn more about developing your project with Expo, look at the following resources:
+My contributions included:
+- Designing and implementing the **user interface** using **React Native Expo** in VS Code
+- Building core UI screens for step tracking, challenges, and leaderboards
+- Collaborating with backend developers to integrate front-end components with app logic
+- Supporting iOS testing by monitoring backend behavior through **Xcode Simulator**
+- Working within a shared GitHub codebase to merge features and ensure consistent UI behavior
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+This project emphasized rapid prototyping, teamwork, and learning new technologies under time constraints.
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## ⚠️ Challenges
+- No prior experience with **React Native or JavaScript** at the start of the hackathon
+- iOS development required **macOS + Xcode**, limiting local testing on Windows machines
+- Implementing leaderboards, boss challenges, and step charts required extensive UI iteration
+- An attempted integration with **Apple HealthKit** could not be finalized before the deadline
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Despite these challenges, the team successfully delivered a functional and polished app.
+
+---
+
+## 🏆 Accomplishments
+- Learned and applied **React Native Expo** from scratch under time constraints
+- Delivered a **visually polished user interface**
+- Built engaging fitness features that promote both **physical health and social interaction**
+- Completed full front-end and back-end integration within the hackathon timeline
+
+---
+
+## 📚 What We Learned
+- Learning new technologies quickly under pressure
+- Collaborating effectively in a team-based development environment
+- Debugging and iterating on mobile UI design
+- Managing platform-specific development constraints
+
+---
+
+## ▶️ Running the Project Locally
+This project targets **iOS** and requires **macOS + Xcode** to build and run.
+
+I do not currently have access to an iOS/macOS environment, so this repository relies on:
+- Source code
+- Documentation
+- Screenshots
+- Demo video (linked below)
+
+---
+
+## 🎥 Demo Video
+A full walkthrough of the StepUp app will be linked here.
+
+**[Watch the demo – coming soon]**
+
+---
+
+## 🛠 Built With
+- React Native  
+- React Native Expo  
+- JavaScript  
+- Python  
+- Flask  
+- SQLAlchemy  
+- Git & GitHub  
+- VS Code  
+- Xcode  
+
+---
+
+## 🔗 Additional Repository
+A follow-up repository created after the hackathon submission can be found here:  
+https://github.com/rickpatking/stepupfinal-direct-
+
+---
+
+## 🚀 What’s Next
+Our vision is to expand StepUp across the University of Florida and beyond — **improving lives one step at a time**.
