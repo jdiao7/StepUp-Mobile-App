@@ -122,7 +122,4 @@ I do not currently have access to an iOS/macOS environment, so this repository r
 A follow-up repository created after the hackathon submission can be found here:  
 https://github.com/rickpatking/stepupfinal-direct-
 
----
 
-## 🚀 What’s Next
-Our vision is to expand StepUp across the University of Florida and beyond — **improving lives one step at a time**.
