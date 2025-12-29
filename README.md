@@ -4,6 +4,19 @@ StepUp is a **gamified iOS step-tracking app** built during a hackathon by a tea
 
 ---
 
+## 🎥 Demo Video
+A full walkthrough of the StepUp app is available here:  
+👉 https://www.youtube.com/watch?v=z_32nXzH-QE
+
+---
+
+## 📱 App Preview
+<p align="center">
+  <img src="assets/login-screen.png" alt="StepUp Login Screen" width="300"/>
+</p>
+
+---
+
 ## 🎯 Inspiration
 As busy college students and former student-athletes, our team wanted a way to stay active despite packed schedules. We realized that while workouts aren’t always possible, **daily steps are achievable**. StepUp was created to merge competitive motivation with modern fitness technology, helping users stay active and connected.
 
@@ -87,15 +100,8 @@ This project targets **iOS** and requires **macOS + Xcode** to build and run.
 I do not currently have access to an iOS/macOS environment, so this repository relies on:
 - Source code
 - Documentation
-- Screenshots
-- Demo video (linked below)
-
----
-
-## 🎥 Demo Video
-A full walkthrough of the StepUp app will be linked here.
-
-**[Watch the demo – coming soon]**
+- Screenshot
+- Demo video linked above
 
 ---
 
